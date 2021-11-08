@@ -8,6 +8,7 @@
 | Andra Setiyo Wicaksono | G64190081 | Game Progammer |
 
 ## Deskripsi Singkat Produk
+Produk yang akan kami kembangkan adalah berupa game dengan 3D effects, dimana nama produk ialah Treasure Garden. Berlatar belakang seorang Mahasiswa Tingkat Akhir, yang ditugaskan oleh dosen pembimbingnya pada sebuah kebun yang terletak di kampusnya. Mahasiswa tersebut ditugaskan untuk mencari bunga Khas dari Indonesia menggunakan peta yang disediakan oleh dosen pembimbingnya, dan dianggap sukses serta bisa keluar dari kebun tersebut jika dia berhasil mendapatkan jenis bunga tersebut dengan kuantitas yang meningkat pada tiap babak. Selain itu, dia juga dihadapi rintangan lain, yaitu monster tanaman yang akan menghalaunya untuk mengambil bunga tersebut, dia harus memecahkan monster tersebut dengan bantuan senjata yang sudah disiapkan oleh dosennya juga.
 
 ## Proses Pengembangan Produk
 
