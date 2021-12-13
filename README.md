@@ -21,6 +21,7 @@ Produk yang akan kami kembangkan adalah berupa game dengan 3D effects, dimana na
 
 ## Technology Stack yang Digunakan
 
+
 ## Teknik Grafika Komputer yang Digunakan
 | Teknik | Deskripsi | Contoh Ilustrasi |
 |--------|-----------|------------------|
@@ -40,3 +41,18 @@ Produk yang akan kami kembangkan adalah berupa game dengan 3D effects, dimana na
 |-----------|-----|
 | Github |  |
 | Video Demo |  |
+
+## Sumber Asset :
+https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
+
+https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
+
+https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-tools-sample-asset-pack-145808
+
+https://assetstore.unity.com/packages/3d/environments/fantasy/angel-statue-27594
+
+https://assetstore.unity.com/packages/3d/vegetation/plants/fantasy-plants-28858
+
+https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
