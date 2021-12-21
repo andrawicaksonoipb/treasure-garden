@@ -49,38 +49,16 @@ game
 ## Teknik Grafika Komputer yang Digunakan
 | Teknik | Deskripsi | Contoh Ilustrasi |
 |--------|-----------|------------------|
-| Objek 2D | Font yang digunakan untuk memberi petunjuk di awal game dan penunjuk tentang tanaman yang sudah dikumpulkan dan sisa waktu | ![image](https://user-images.githubusercontent.com/78837351/146873330-017a6b35-06cc-4eaa-a1b0-bf57c17b7fb4.png)
- |
-| Objek 3D | Player
-Tree
-Ground
-Mist
-Plant
- | ![image](https://user-images.githubusercontent.com/78837351/146873392-b6d39862-1964-4353-b5ae-e5eb0dba12fc.png) |![image](https://user-images.githubusercontent.com/78837351/146873448-9b01142a-d9dd-4fb9-ac74-9c99e3166875.png)
-| Transformasi | Translation yang digunakan untuk random posisi dari tanaman setiap kali game dimulai | ![image](https://user-images.githubusercontent.com/78837351/146873542-25d8faa2-40b2-4c02-b555-028d04cfe523.png)
- |
-| Pencahayaan | Skybox digunakan untuk pencahayaan pada environment sehingga terlihat seperti langit
-Directional Light digunakan untuk pencahayaan matahari secara langsung
- | ![image](https://user-images.githubusercontent.com/78837351/146873600-010452e9-d5c9-4b9c-924c-6da554488942.png)
- |
-| Interaksi Mouse | Mouse Y, apabila user menggeser mouse searah sumbu Y maka sudut kamera akan berubah sesuai dengan pergeseran | ![image](https://user-images.githubusercontent.com/78837351/146873643-c51d9f35-fae7-4afe-a6ad-e65f73996e02.png)
- |
-| Interaksi Keyboard | Up Arrow digunakan untuk menggerakan player ke depan
-Down Arrow digunakan untuk menggerakan player ke belakang
-Right Arrow digunakan untuk memutar perspektif ke kanan
-Left Arrow digunakan untuk memutar perspektif ke kiri
- | ![image](https://user-images.githubusercontent.com/78837351/146873686-f3d6b171-d295-4753-8b64-30a564c30f7c.png)
- |
-| Windowing | Game kali hanya bisa digunakan dengan menggunakan screen PC/laptop | ![image](https://user-images.githubusercontent.com/78837351/146873719-99c1e005-38df-407e-9cd3-128dd157ea5f.png)
- |
-| Perspektif | Third Person dimana kamera akan mengikuti player kemanapun  | ![image](https://user-images.githubusercontent.com/78837351/146873774-a93af898-c1e1-432c-b0d2-8667a0976104.png)
- |
+| Objek 2D | Font yang digunakan untuk memberi petunjuk di awal game dan penunjuk tentang tanaman yang sudah dikumpulkan dan sisa waktu | ![image](https://user-images.githubusercontent.com/78837351/146873330-017a6b35-06cc-4eaa-a1b0-bf57c17b7fb4.png) |
+| Objek 3D | Player, Tree, Ground, Mist, Plant | ![image](https://user-images.githubusercontent.com/78837351/146873392-b6d39862-1964-4353-b5ae-e5eb0dba12fc.png) |
+| Transformasi | Translation yang digunakan untuk random posisi dari tanaman setiap kali game dimulai | ![image](https://user-images.githubusercontent.com/78837351/146873542-25d8faa2-40b2-4c02-b555-028d04cfe523.png) |
+| Pencahayaan | Skybox digunakan untuk pencahayaan pada environment sehingga terlihat seperti langit, Directional Light digunakan untuk pencahayaan matahari secara langsung | ![image](https://user-images.githubusercontent.com/78837351/146873600-010452e9-d5c9-4b9c-924c-6da554488942.png) |
+| Interaksi Mouse | Mouse Y, apabila user menggeser mouse searah sumbu Y maka sudut kamera akan berubah sesuai dengan pergeseran | ![image](https://user-images.githubusercontent.com/78837351/146873643-c51d9f35-fae7-4afe-a6ad-e65f73996e02.png) |
+| Interaksi Keyboard | Up Arrow digunakan untuk menggerakan player ke depan, Down Arrow digunakan untuk menggerakan player ke belakang, Right Arrow digunakan untuk memutar perspektif ke kanan, Left Arrow digunakan untuk memutar perspektif ke kiri | ![image](https://user-images.githubusercontent.com/78837351/146873686-f3d6b171-d295-4753-8b64-30a564c30f7c.png) |
+| Windowing | Game kali hanya bisa digunakan dengan menggunakan screen PC/laptop | ![image](https://user-images.githubusercontent.com/78837351/146873719-99c1e005-38df-407e-9cd3-128dd157ea5f.png) |
+| Perspektif | Third Person dimana kamera akan mengikuti player kemanapun | ![image](https://user-images.githubusercontent.com/78837351/146873774-a93af898-c1e1-432c-b0d2-8667a0976104.png) |
 | Fraktal | - | - |
-| Tekstur | Ground yang digunakan untuk jalan setapak
-Grass yang digunakan untuk menambahkan efek rumput pada terrain
-Dirt yang digunakan untuk membuat efek jalanan yang kotor di hutan
- | ![Uploading image.png…]()
- |
+| Tekstur | Ground yang digunakan untuk jalan setapak, Grass yang digunakan untuk menambahkan efek rumput pada terrain, Dirt yang digunakan untuk membuat efek jalanan yang kotor di hutan | ![image](https://user-images.githubusercontent.com/78837351/146874362-4daf68f8-b7dc-45bd-9563-14aaa1d63bb7.png) |
 
 ## Informasi Proyek
 | Informasi | URL |
