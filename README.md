@@ -32,14 +32,15 @@ Kami menggabungkan dan memodifikasi (mix) semua asset yang kami dapatkan secara 
 
 
 ## Screenshot Produk
-![image](https://user-images.githubusercontent.com/78837351/146872968-ae8c3076-7ea2-42b9-8949-48c5df7748bf.png)
+
 main menu
+![image](https://user-images.githubusercontent.com/78837351/146872968-ae8c3076-7ea2-42b9-8949-48c5df7748bf.png)
 
-![image](https://user-images.githubusercontent.com/78837351/146873043-9be76ec7-ed2f-49e7-99b3-5ee873d3fc80.png)
 story
+![image](https://user-images.githubusercontent.com/78837351/146873043-9be76ec7-ed2f-49e7-99b3-5ee873d3fc80.png)
 
-![image](https://user-images.githubusercontent.com/78837351/146873147-f4b22968-bf76-42f3-97c4-dd6504aee3d9.png)
 game
+![image](https://user-images.githubusercontent.com/78837351/146873147-f4b22968-bf76-42f3-97c4-dd6504aee3d9.png)
 
 ## Technology Stack yang Digunakan
 
